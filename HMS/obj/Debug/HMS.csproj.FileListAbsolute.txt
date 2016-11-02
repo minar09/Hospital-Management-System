@@ -1,0 +1,44 @@
+H:\Copy\C# Dev\HMS\HMS\bin\Debug\HMS.exe.config
+H:\Copy\C# Dev\HMS\HMS\bin\Debug\HMS.exe
+H:\Copy\C# Dev\HMS\HMS\bin\Debug\HMS.pdb
+H:\Copy\C# Dev\HMS\HMS\bin\Debug\Oracle.DataAccess.dll
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.csprojResolveAssemblyReference.cache
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.Form1.resources
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.UserControl1.resources
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.UserControl2.resources
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.UserControl3.resources
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.Cache
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.exe
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.pdb
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.UserControl5.resources
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.UserControl6.resources
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.UserControl7.resources
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.UserControl8.resources
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.UserControl9.resources
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.UserControl10.resources
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.UserControl11.resources
+H:\Copy\C# Dev\HMS\HMS\obj\Debug\HMS.UserControl4.resources
+G:\HMS\HMS\bin\Debug\HMS.exe.config
+G:\HMS\HMS\obj\Debug\HMS.exe
+G:\HMS\HMS\obj\Debug\HMS.pdb
+G:\HMS\HMS\bin\Debug\HMS.exe
+G:\HMS\HMS\bin\Debug\HMS.pdb
+G:\HMS\HMS\bin\Debug\Oracle.DataAccess.dll
+G:\HMS\HMS\obj\Debug\HMS.csprojResolveAssemblyReference.cache
+G:\HMS\HMS\obj\Debug\HMS.Form1.resources
+G:\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+G:\HMS\HMS\obj\Debug\HMS.UserControl1.resources
+G:\HMS\HMS\obj\Debug\HMS.UserControl10.resources
+G:\HMS\HMS\obj\Debug\HMS.UserControl11.resources
+G:\HMS\HMS\obj\Debug\HMS.UserControl2.resources
+G:\HMS\HMS\obj\Debug\HMS.UserControl3.resources
+G:\HMS\HMS\obj\Debug\HMS.UserControl4.resources
+G:\HMS\HMS\obj\Debug\HMS.UserControl5.resources
+G:\HMS\HMS\obj\Debug\HMS.UserControl6.resources
+G:\HMS\HMS\obj\Debug\HMS.UserControl7.resources
+G:\HMS\HMS\obj\Debug\HMS.UserControl8.resources
+G:\HMS\HMS\obj\Debug\HMS.UserControl9.resources
+G:\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.Cache
+G:\HMS\HMS\obj\Debug\HMS.UserControl12.resources
+G:\HMS\HMS\obj\Debug\HMS.UserControl13.resources
